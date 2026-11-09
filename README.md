@@ -1,4 +1,4 @@
-### Salve, sou hadock
+### Bem vindo!
 
 ![Hadockz GitHub stats](https://github-readme-stats.vercel.app/api?username=Hadockz&show_icons=true&theme=dark)
 
